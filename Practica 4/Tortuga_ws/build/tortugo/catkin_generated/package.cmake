@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tortugo")
+set(tortugo_MAINTAINER "viki <viki@todo.todo>")
+set(tortugo_DEPRECATED "")
+set(tortugo_VERSION "0.0.0")
+set(tortugo_BUILD_DEPENDS "roscpp" "geometry_msgs" "std_msgs")
+set(tortugo_RUN_DEPENDS "roscpp" "geometry_msgs" "std_msgs")
+set(tortugo_BUILDTOOL_DEPENDS "catkin")

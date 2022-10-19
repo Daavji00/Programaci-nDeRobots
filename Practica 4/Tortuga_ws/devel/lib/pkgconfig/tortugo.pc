@@ -1,0 +1,8 @@
+prefix=/home/viki/Tortuga_ws/devel
+
+Name: tortugo
+Description: Description of tortugo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/Tortuga_ws/devel/lib 
+Requires: 
